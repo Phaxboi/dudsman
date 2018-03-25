@@ -1,0 +1,11 @@
+!regel VAD KLUNK/STUDS/SPLASH/ ANTAL
+
+!regel dubbel 4 KLUNK /2
+!regel 7 STUDS 1
+
+!regel regel Phax ska dricka på varje kast
+
+!regler 
+REGLER:
+-------
+* Phax blabla
